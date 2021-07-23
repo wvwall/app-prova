@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "app_prova",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "app_prova",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "47114c6d"
+}
